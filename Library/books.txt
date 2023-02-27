@@ -1,0 +1,4 @@
+1 "Niezgodna" 2015 V.Roth fantasy 12 5
+2 "Zmierzch" 2000 S.Meyer fantasy 25 3
+3 "Mewa" 1990 R.Bach nowela 2 1
+4 "Opowiesc" 2005 M.Nowak powiesc 22 4

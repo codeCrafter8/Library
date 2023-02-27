@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1650377916 source:c:\users\zuzan\onedrive\dokumenty\bibbbb\clients.c
+	"bilbioteka.h"
+
+1650382513 c:\users\zuzan\onedrive\dokumenty\bibbbb\bilbioteka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650391561 source:c:\users\zuzan\onedrive\dokumenty\bibbbb\main.c
+	"bilbioteka.h"
+
+1650391935 source:c:\users\zuzan\onedrive\dokumenty\bibbbb\books.c
+	"bilbioteka.h"
+
+1653667032 source:c:\users\zuzan\onedrive\pulpit\dziala\clients.c
+	"bilbioteka.h"
+
+1654018572 c:\users\zuzan\onedrive\pulpit\dziala\bilbioteka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1653414599 source:c:\users\zuzan\onedrive\pulpit\dziala\main.c
+	"bilbioteka.h"
+
+1654018865 source:c:\users\zuzan\onedrive\pulpit\dziala\books.c
+	"bilbioteka.h"
+
+1654019115 source:c:\users\zuzan\onedrive\pulpit\dziala\rentals.c
+	"bilbioteka.h"
+
+1654024212 source:c:\users\zuzan\onedrive\pulpit\dzialaa\books.c
+	"bilbioteka.h"
+
+1654023898 c:\users\zuzan\onedrive\pulpit\dzialaa\bilbioteka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1654023899 source:c:\users\zuzan\onedrive\pulpit\dzialaa\clients.c
+	"bilbioteka.h"
+
+1654023899 source:c:\users\zuzan\onedrive\pulpit\dzialaa\main.c
+	"bilbioteka.h"
+
+1654024014 source:c:\users\zuzan\onedrive\pulpit\dzialaa\rentals.c
+	"bilbioteka.h"
+
+1654265518 source:c:\users\weronika\desktop\bibloteka projket\books.c
+	"bilbioteka.h"
+
+1654265518 c:\users\weronika\desktop\bibloteka projket\bilbioteka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1654265519 source:c:\users\weronika\desktop\bibloteka projket\clients.c
+	"bilbioteka.h"
+
+1654267971 source:c:\users\weronika\desktop\bibloteka projket\main.c
+	"bilbioteka.h"
+
+1654265519 source:c:\users\weronika\desktop\bibloteka projket\rentals.c
+	"bilbioteka.h"
+
