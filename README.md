@@ -1,4 +1,4 @@
-# Library_managament
+# Library
 > Console application to manage a library.
 
 ## Table of Contents
